@@ -1,0 +1,6 @@
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.exe.config
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.exe
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.exe
+c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
