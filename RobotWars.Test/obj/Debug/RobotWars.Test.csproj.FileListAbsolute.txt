@@ -1,9 +1,0 @@
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.pdb
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\nunit.framework.dll
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.exe
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.pdb
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\bin\Debug\nunit.framework.xml
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.csprojResolveAssemblyReference.cache
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.dll
-c:\users\stefa_000\documents\visual studio 2013\Projects\RobotWars\RobotWars.Test\obj\Debug\RobotWars.Test.pdb
